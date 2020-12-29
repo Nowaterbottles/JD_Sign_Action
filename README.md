@@ -23,7 +23,7 @@
 ## 获取京东cookie
 ### cookie有效期：一个月
 
-方法一：
+方法一： 
 * 使用项目中的Chrome插件：`JDCookie`；
 * Chrome中拓展程序开启`开发者模式`；
 * 点击`加载已解压的拓展程序`，选择`JDCookie`目录；
